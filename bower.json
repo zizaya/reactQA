@@ -1,0 +1,21 @@
+{
+  "name": "reactQA",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "张珍 <zhang_zhen@Ctrip.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/zizaya/reactQA",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
